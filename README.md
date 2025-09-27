@@ -1,13 +1,13 @@
-Simple Interest Calculator
+## Simple Interest Calculator
 A sleek and professional web application for calculating simple interest, developed as part of the IBM Full Stack Developer curriculum.
 
 https://img.shields.io/badge/IBM-Course_Project-blue?style=for-the-badge
 https://img.shields.io/badge/License-MIT-green?style=for-the-badge
 
-Overview
+## Overview
 The Simple Interest Calculator is an elegant financial tool designed to compute simple interest earnings with precision and clarity. Built with modern web technologies, it offers financial professionals, students, and individuals a reliable way to perform quick interest calculations.
 
-✨ Features
+## ✨ Features
 🎯 Accurate Calculations - Precise simple interest computations using standard financial formulas
 
 💫 Modern UI/UX - Clean, professional interface with smooth animations
@@ -38,7 +38,7 @@ T = Time Period (years)
 
 A = Total Accumulated Amount
 
-🚀 Live Demo
+## 🚀 Live Demo
 View Live Application
 
 🛠️ Technology Stack
@@ -111,7 +111,7 @@ Accessibility - WCAG compliant with proper contrast ratios
 
 Performance - Lightweight and fast-loading
 
-🤝 Contributing
+## 🤝 Contributing
 We welcome contributions! Please follow these steps:
 
 Fork the repository
@@ -148,9 +148,10 @@ Historical interest rate data
 
 Advanced financial charts and graphs
 
-Built with ❤️ as part of the IBM Full Stack Developer Program
-
-Prepared by Jose D Mora
+## 👨‍💻 Project Elaboration
+Prepared and Developed by:
+José D. Mora [https://github.com/Jdmora91]
+IBM Full Stack Developer Student
 
 <div align="center">
 Simplifying financial calculations for professionals worldwide
